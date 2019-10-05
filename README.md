@@ -16,13 +16,11 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 
 https://hacktoberfest.digitalocean.com/
 
-## How to contribute to this project
-
-Here are quick and painless ways to contribute to this project:
+## How to contribute to this repository
 
 - Add a Machine Learning / Deep Learning research paper you have published, read or worked on before.
 
-Choose one or many , make a pull request for your work and wait for it to be merged!
+Choose one or many, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
 
