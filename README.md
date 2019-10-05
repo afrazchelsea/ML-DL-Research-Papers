@@ -24,8 +24,6 @@ Here are quick and painless ways to contribute to this project:
 
 Choose one or many , make a pull request for your work and wait for it to be merged!
 
-### check [CONTRIBUTING.md](/CONTRIBUTING.md)
-
 ## Getting started
 
 1) Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
