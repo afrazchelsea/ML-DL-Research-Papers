@@ -20,7 +20,6 @@ https://hacktoberfest.digitalocean.com/
 
 Here are quick and painless ways to contribute to this project:
 
-- Add your name to the CONTRIBUTORS.md file
 - Add a Machine Learning / Deep Learning research paper you have published, read or worked on before.
 
 Choose one or many , make a pull request for your work and wait for it to be merged!
