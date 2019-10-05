@@ -27,13 +27,13 @@ Choose one or many, make a pull request for your work and wait for it to be merg
 1) Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 2) Clone your fork down to your local machine
 
-`git clone https://github.com/afrazchelsea/ML-DL-Research-Papers.git`
+`git clone fork-link.git`
 
 3) Create a branch
 
 `git checkout -b branch-name`
 
-4) Make your changes (choose from any task listed above)
+4) Make your changes (add a paper)
 5) Commit and push
 
 ```bash
